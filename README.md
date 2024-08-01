@@ -2,7 +2,8 @@
 <br> <br> <br>  <img src="https://github.com/VisuaISource/VisuaISource/blob/main/blahaj.png"/>
 <br>
 </p>
-## <p align="center"> Hewo, I'm Visual <3 </p>
+
+## <p align="center"> My Expertisesssss >_< </p>
 
 ___
 
