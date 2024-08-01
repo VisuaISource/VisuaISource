@@ -33,7 +33,7 @@ I'm a silly Bot/Game Developer who loves to bring ideas to life, I am extremely 
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Steam][https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white](https://steamcommunity.com/id/visualsource/)
+[![][https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white](https://steamcommunity.com/id/visualsource/)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
 
