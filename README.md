@@ -1,6 +1,6 @@
 <p align="center">
 <br> <br> <br>  <img src="https://github.com/VisuaISource/VisuaISource/blob/main/blahaj.png"/>
-Hewo, Meowlers! I'm Visual :3
+<br> Hewo, Meowlers! I'm Visual :3
 </p>
 
 ___
