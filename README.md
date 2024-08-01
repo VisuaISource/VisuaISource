@@ -1,6 +1,4 @@
-<p align="center">
 ![header](./blahaj.png)
-</p>
 ___
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFCCF5&center=true&repeat=false&width=435&lines=hi+haii+heyy+hewo+hiiyyaaa+%5E-%5E" alt="Typing SVG" /></a>
@@ -11,8 +9,6 @@ I'm a silly Bot/Game Developer who loves to bring ideas to life, I am extremely 
 - CS&P @ PoD ⁎ Backend Developer
 - Game Testing Analyst
 - Synthwave Enthusiast :3
-<br>
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) Lover! <3
 
 ### My Expertises! >_<
 
@@ -29,6 +25,7 @@ I'm a silly Bot/Game Developer who loves to bring ideas to life, I am extremely 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
