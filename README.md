@@ -15,9 +15,9 @@
 
 </div>
 
-<p align="center">
+<br> <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FFFF0&repeat=false&width=435&lines=I'm+kinda+silly+%3A3" alt="Typing SVG" /></a>
-</p>
+</p> </br>
 
 <div class="badges-githubstats">
   <p align="center">
