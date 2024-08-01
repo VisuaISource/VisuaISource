@@ -13,11 +13,11 @@
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php&logoColor=#777BB4)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=#E34F26)
 
+___
+
 </div>
 
-<br> <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FFFF0&repeat=false&width=435&lines=I'm+kinda+silly+%3A3" alt="Typing SVG" /></a>
-</p> </br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FFFF0&repeat=false&width=435&lines=I'm+kinda+silly+%3A3" alt="Typing SVG" /></a>
 
 <div class="badges-githubstats">
   <p align="center">
@@ -25,8 +25,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=VisuaISource&theme=tokyonight&hide_border=true" alt="Visual's Streak" height="165">
   </p>
 </div>
-
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FFFF0&width=435&lines=I'm+kinda+silly+%3A3)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FFFF0&repeat=false&width=435&lines=I'm+kinda+silly+%3A3" alt="Typing SVG" /></a>
 
 
 </div>
