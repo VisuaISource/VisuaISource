@@ -7,7 +7,7 @@ ___
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VisuaISource)
 
-<br><br>
+<br>
 
 I'm a silly Bot/Game Developer who loves to bring ideas to life, I am extremely fascinated by the endless possibilities regarding designs and development.
 - CS&P @ PoD ⁎ Backend Developer
