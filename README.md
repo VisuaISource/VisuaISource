@@ -2,7 +2,9 @@
 <br> <br> <br>  <img src="https://github.com/VisuaISource/VisuaISource/blob/main/blahaj.png"/>
 </p>
 # Hewo, Meowlers! I'm Visual :3
+
 ___
+
 ![Profile Views](https://komarev.com/ghpvc/?username=VisuaISource)
 <br>
 I'm a silly Bot/Game Developer who loves to bring ideas to life, I am extremely fascinated by the endless possibilities regarding designs and development.
@@ -33,6 +35,7 @@ I'm a silly Bot/Game Developer who loves to bring ideas to life, I am extremely 
 <p align="center">
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 </p>
+
 ___
 
 <div class="badges-githubstats">
