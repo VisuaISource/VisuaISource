@@ -10,6 +10,8 @@ ___
 I'm a silly Bot/Game Developer who loves to bring ideas to life, I am extremely fascinated by the endless possibilities regarding designs and development.
 - CS&P @ PoD ⁎ Backend Developer
 - Game Testing Analyst
+- Cybersecurity & Intelligence Agent
+- I love documenting
 - Synthwave Enthusiast :3
 <br><br><br>
 
@@ -31,6 +33,8 @@ I'm a silly Bot/Game Developer who loves to bring ideas to life, I am extremely 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+
+
 
 <br>
 <p align="center">
