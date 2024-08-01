@@ -33,6 +33,9 @@ I'm a silly Bot/Game Developer who loves to bring ideas to life, I am extremely 
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+![Proton Mail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
+
+[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/id/visualsource/)
 
 <br>
 
@@ -44,7 +47,7 @@ I'm a silly Bot/Game Developer who loves to bring ideas to life, I am extremely 
   <tr>
   <td valign="top" width="50%">
   
-  #### <p align="center"> Windows :3 </p
+  #### <p align="center"> Windows :3 </p>
   
   ![Windows](https://img.shields.io/badge/-Windows-503D4D?style=flat&logo=windows&logoColor=#0078D6)
   ![PowerShell](https://img.shields.io/badge/-PowerShell-000000?style=flat&logo=powershell&logoColor=#5391FE)
@@ -58,7 +61,7 @@ I'm a silly Bot/Game Developer who loves to bring ideas to life, I am extremely 
   
   I love working with Linux and Im always exploring new things in the vast open-source world.
   
-  ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=#FCC624)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu&logoColor=#E95420)
   ![Debian](https://img.shields.io/badge/-Debian-000000?style=flat&logo=debian&logoColor=#A81D33)
   ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-000000?style=flat&logo=arch-linux&logoColor=#1793D1)
