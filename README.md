@@ -1,6 +1,6 @@
 <p align="center">
 <br> <br> <br>  <img src="https://github.com/VisuaISource/VisuaISource/blob/main/blahaj.png"/>
-<br> # <p align="center"> <b> Hewo, Meowlers! I'm Visual :3 </p> </b>
+<br> # <b> Hewo, Meowlers! I'm Visual :3 </b>
 </p>
 
 ___
@@ -17,7 +17,7 @@ I'm a silly Bot/Game Developer who loves to bring ideas to life, I am extremely 
 - Synthwave Enthusiast :3
 <br><br><br>
 
- ## <p align="center">My Expertises! >_< </p>
+## <p align="center">My Expertises! >_< </p>
 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
