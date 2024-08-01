@@ -59,8 +59,6 @@ I crash my keyboard, and funny words come out. :3
   
   #### <p align="center"> Linux :3 </p>
   
-  I love working with Linux and Im always exploring new things in the vast open-source world.
-  
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
