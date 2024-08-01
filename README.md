@@ -17,7 +17,7 @@ I'm a silly Bot/Game Developer who loves to bring ideas to life, I am extremely 
 - Synthwave Enthusiast :3
 <br><br><br>
 
- ## <p align="center">My Expertises! >_< </p
+ ## <p align="center">My Expertises! >_< </p>
 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -37,6 +37,39 @@ I'm a silly Bot/Game Developer who loves to bring ideas to life, I am extremely 
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br> <b> Hope you have a great day! <3 </b>
 </p>
+
+___
+
+### <p align="center">⚙️ My development environment </p>
+
+<div class="table-devenvironment">
+  <table style="font-size: 11px">
+  <tr>
+  <td valign="top" width="50%">
+  
+  #### Windows :3
+  
+  ![Windows](https://img.shields.io/badge/-Windows-503D4D?style=flat&logo=windows&logoColor=#0078D6)
+  ![PowerShell](https://img.shields.io/badge/-PowerShell-000000?style=flat&logo=powershell&logoColor=#5391FE)
+  ![Azure](https://img.shields.io/badge/-Azure-000000?style=flat&logo=microsoft-azure&logoColor=#0078D4)
+  ![WSL](https://img.shields.io/badge/-WSL-000000?style=flat&logo=windows-subsystem-for-linux&logoColor=#FCC624)
+  
+  </td>
+  <td valign="top" width="50%">
+  
+  #### Linux :3
+  
+  I love working with Linux and Im always exploring new things in the vast open-source world.
+  
+  ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=#FCC624)
+  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu&logoColor=#E95420)
+  ![Debian](https://img.shields.io/badge/-Debian-000000?style=flat&logo=debian&logoColor=#A81D33)
+  ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-000000?style=flat&logo=arch-linux&logoColor=#1793D1)
+  ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-000000?style=flat&logo=kali-linux&logoColor=#557C94)
+  
+  </td>
+  </tr>
+  </table>
 
 ___
 
