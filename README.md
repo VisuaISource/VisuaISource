@@ -16,7 +16,7 @@
 </div>
 
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FFFF0&width=435&lines=My+stats%2C+wohoo!)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FFFF0&repeat=false&width=435&lines=I'm+kinda+silly+%3A3" alt="Typing SVG" /></a>
 </p>
 
 <div class="badges-githubstats">
