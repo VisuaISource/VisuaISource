@@ -31,6 +31,9 @@ I'm a silly Bot/Game Developer who loves to bring ideas to life, I am extremely 
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
+<br><br>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<br><br><br>
 ___
 
 <div class="badges-githubstats">
