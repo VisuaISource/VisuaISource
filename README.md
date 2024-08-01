@@ -13,9 +13,10 @@ I'm a silly Bot/Game Developer who loves to bring ideas to life, I am extremely 
 - Game Testing Analyst
 - Synthwave Enthusiast :3
 
-<p align="center">
-## My Expertises! >_<
-</p>
+___
+
+ ## My Expertises! >_<
+
 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
