@@ -1,14 +1,17 @@
-[![header](./blahaj.png)]
+<p align="center">
+![header](./blahaj.png)
+</p>
 ___
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFCCF5&center=true&repeat=false&width=435&lines=hi+haii+heyy+hewo+hiiyyaaa+%5E-%5E" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFCCF5&center=true&repeat=false&width=435&lines=I'm+Visual%2C+a+silly+meowler!+%3C3" alt="Typing SVG" /></a>
-![Profile Views](https://komarev.com/ghpvc/?username=VisuaISource)
+<br><br><br> ![Profile Views](https://komarev.com/ghpvc/?username=VisuaISource)
 
 I'm a silly Bot/Game Developer who loves to bring ideas to life, I am extremely fascinated by the endless possibilities regarding designs and development.
 - CS&P @ PoD ⁎ Backend Developer
 - Game Testing Analyst
 - Synthwave Enthusiast :3
+<br>
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) Lover! <3
 
 ### My Expertises! >_<
