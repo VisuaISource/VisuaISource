@@ -35,7 +35,8 @@ I'm a silly Bot/Game Developer who loves to bring ideas to life, I am extremely 
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Proton Mail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
 
-[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white))](https://steamcommunity.com/id/visualsource/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](discord.com/users/1264589957222236226)
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/visualsource/)
 
 <br>
 
@@ -49,10 +50,9 @@ I'm a silly Bot/Game Developer who loves to bring ideas to life, I am extremely 
   
   #### <p align="center"> Windows :3 </p>
   
-  ![Windows](https://img.shields.io/badge/-Windows-503D4D?style=flat&logo=windows&logoColor=#0078D6)
-  ![PowerShell](https://img.shields.io/badge/-PowerShell-000000?style=flat&logo=powershell&logoColor=#5391FE)
-  ![Azure](https://img.shields.io/badge/-Azure-000000?style=flat&logo=microsoft-azure&logoColor=#0078D4)
-  ![WSL](https://img.shields.io/badge/-WSL-000000?style=flat&logo=windows-subsystem-for-linux&logoColor=#FCC624)
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
   
   </td>
   <td valign="top" width="50%">
@@ -62,10 +62,10 @@ I'm a silly Bot/Game Developer who loves to bring ideas to life, I am extremely 
   I love working with Linux and Im always exploring new things in the vast open-source world.
   
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu&logoColor=#E95420)
-  ![Debian](https://img.shields.io/badge/-Debian-000000?style=flat&logo=debian&logoColor=#A81D33)
-  ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-000000?style=flat&logo=arch-linux&logoColor=#1793D1)
-  ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-000000?style=flat&logo=kali-linux&logoColor=#557C94)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+  ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)
+  ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)
+  ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)
   
   </td>
   </tr>
