@@ -11,7 +11,7 @@
 
 <br>
 
-I'm a silly Bot/Game Developer who loves to bring ideas to life, I am extremely fascinated by the endless possibilities regarding designs and development.
+I crash my keyboard, and funny words come out. :3
 - CS&P @ PoD ⁎ Backend Developer
 - Game Testing Analyst
 - Cybersecurity & Intelligence Analyst
