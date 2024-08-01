@@ -44,7 +44,7 @@ I'm a silly Bot/Game Developer who loves to bring ideas to life, I am extremely 
   <tr>
   <td valign="top" width="50%">
   
-  #### Windows :3
+  #### <p align="center"> Windows :3 </p
   
   ![Windows](https://img.shields.io/badge/-Windows-503D4D?style=flat&logo=windows&logoColor=#0078D6)
   ![PowerShell](https://img.shields.io/badge/-PowerShell-000000?style=flat&logo=powershell&logoColor=#5391FE)
@@ -54,7 +54,7 @@ I'm a silly Bot/Game Developer who loves to bring ideas to life, I am extremely 
   </td>
   <td valign="top" width="50%">
   
-  #### Linux :3
+  #### <p align="center"> Linux :3 </p>
   
   I love working with Linux and Im always exploring new things in the vast open-source world.
   
