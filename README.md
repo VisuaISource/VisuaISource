@@ -1,7 +1,8 @@
 <p align="center">
 <br> <br> <br>  <img src="https://github.com/VisuaISource/VisuaISource/blob/main/blahaj.png"/>
-<br> # <b> Hewo, Meowlers! I'm Visual :3 </b>
+<br>
 </p>
+## <p align="center"> Hewo, I'm Visual <3 </p>
 
 ___
 
@@ -17,7 +18,7 @@ I'm a silly Bot/Game Developer who loves to bring ideas to life, I am extremely 
 - Synthwave Enthusiast :3
 <br><br><br>
 
-## <p align="center">My Expertises! >_< </p>
+## <p align="center"> My Expertisesssss >_< </p>
 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -35,7 +36,7 @@ I'm a silly Bot/Game Developer who loves to bring ideas to life, I am extremely 
 <br>
 
 
-### <p align="center"> <b> My Cutest Environments! <3 </b> </p>
+## <p align="center"> <b> My Cutest Environments! <3 </b> </p>
 
 <div class="table-devenvironment">
   <table style="font-size: 11px">
@@ -65,7 +66,7 @@ I'm a silly Bot/Game Developer who loves to bring ideas to life, I am extremely 
   </td>
   </tr>
   </table>
-<br>
+<br><br><br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br> <b> Hope you have a great day! <3 </b>
