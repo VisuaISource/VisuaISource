@@ -1,4 +1,7 @@
-![header](./blahaj.png)
+<p align="center">
+  <img src="https://github.com/VisuaISource/VisuaISource/blob/main/blahaj.png"/>
+</p>
+
 ___
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Maven+PRO&letterSpacing=1px&pause=1000&color=FFCCF5&center=true&multiline=true&repeat=false&width=435&lines=Hewoooo+%5E_%5E;I'm+Visual!+%3C3" alt="Typing SVG" /></a>
 <br> ![Profile Views](https://komarev.com/ghpvc/?username=VisuaISource)
@@ -9,7 +12,7 @@ I'm a silly Bot/Game Developer who loves to bring ideas to life, I am extremely 
 - Synthwave Enthusiast :3
 
 <p align="center">
-### **My Expertises! >_<**
+## My Expertises! >_<
 </p>
 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
