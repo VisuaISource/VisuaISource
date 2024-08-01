@@ -1,16 +1,16 @@
 ![header](./blahaj.png)
 ___
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFCCF5&center=true&repeat=false&width=435&lines=hi+haii+heyy+hewo+hiiyyaaa+%5E-%5E" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFCCF5&center=true&repeat=false&width=435&lines=I'm+Visual%2C+a+silly+meowler!+%3C3" alt="Typing SVG" /></a>
-<br><br><br> ![Profile Views](https://komarev.com/ghpvc/?username=VisuaISource)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Maven+PRO&letterSpacing=1px&pause=1000&color=FFCCF5&center=true&multiline=true&repeat=false&width=435&lines=Hewoooo+%5E_%5E;I'm+Visual!+%3C3" alt="Typing SVG" /></a>
+<br> ![Profile Views](https://komarev.com/ghpvc/?username=VisuaISource)
 
 I'm a silly Bot/Game Developer who loves to bring ideas to life, I am extremely fascinated by the endless possibilities regarding designs and development.
 - CS&P @ PoD ⁎ Backend Developer
 - Game Testing Analyst
 - Synthwave Enthusiast :3
 
-### My Expertises! >_<
+<p align="center">
+### **My Expertises! >_<**
+</p>
 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
