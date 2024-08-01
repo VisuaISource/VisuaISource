@@ -3,9 +3,9 @@
 <br>
 </p>
 
-## <p align="center"> My Expertisesssss >_< </p>
+## <p align="center"> Hewoo, Meowlers! I'm Visual <3 </p>
 
-___
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VisuaISource)
 
