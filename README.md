@@ -3,7 +3,9 @@
 </p>
 
 ___
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Maven+PRO&letterSpacing=1px&pause=1000&color=FFCCF5&center=true&multiline=true&repeat=false&width=435&lines=Hewoooo+%5E_%5E;I'm+Visual!+%3C3" alt="Typing SVG" /></a>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFCCF5&repeat=false&width=435&lines=Hewoo%2C+hiiyaaa!+%3Ew%3C" alt="oooo u hover over this?" /></a>
+</p>
 <br> ![Profile Views](https://komarev.com/ghpvc/?username=VisuaISource)
 
 I'm a silly Bot/Game Developer who loves to bring ideas to life, I am extremely fascinated by the endless possibilities regarding designs and development.
