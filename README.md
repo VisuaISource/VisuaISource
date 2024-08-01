@@ -1,4 +1,4 @@
-[![header](./bahaji.png)]
+![header](./bahaji.png)
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FFFF0&repeat=false&width=435&lines=%E2%BF%B4%E3%80%80%E2%86%A6%E3%80%80%E3%80%80Visual+Source+%3C3%E3%80%80%E3%80%80%E2%81%8E++%E3%80%80%E3%80%80%E3%80%80+)](https://git.io/typing-svg)
 
