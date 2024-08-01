@@ -34,7 +34,6 @@ I'm a silly Bot/Game Developer who loves to bring ideas to life, I am extremely 
 
 <br>
 
-___
 
 ### <p align="center"> <b> My Cutest Environments! <3 </b> </p>
 
@@ -66,7 +65,7 @@ ___
   </td>
   </tr>
   </table>
-
+<br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br> <b> Hope you have a great day! <3 </b>
