@@ -1,6 +1,6 @@
 <p align="center">
 <br> <br> <br>  <img src="https://github.com/VisuaISource/VisuaISource/blob/main/blahaj.png"/>
-<br> <b> Hewo, Meowlers! I'm Visual :3 </b>
+<br> <b> # <p align="center"> Hewo, Meowlers! I'm Visual :3 </p> </b>
 </p>
 
 ___
@@ -12,7 +12,7 @@ ___
 I'm a silly Bot/Game Developer who loves to bring ideas to life, I am extremely fascinated by the endless possibilities regarding designs and development.
 - CS&P @ PoD ⁎ Backend Developer
 - Game Testing Analyst
-- Cybersecurity & Intelligence Agent
+- Cybersecurity & Intelligence Analyst
 - I love documenting
 - Synthwave Enthusiast :3
 <br><br><br>
@@ -33,14 +33,10 @@ I'm a silly Bot/Game Developer who loves to bring ideas to life, I am extremely 
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 
 <br>
-<p align="center">
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-<br> <b> Hope you have a great day! <3 </b>
-</p>
 
 ___
 
-### <p align="center">⚙️ My development environment </p>
+### <p align="center"> <b> My Cutest Environments! <3 </b> </p>
 
 <div class="table-devenvironment">
   <table style="font-size: 11px">
@@ -70,6 +66,11 @@ ___
   </td>
   </tr>
   </table>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<br> <b> Hope you have a great day! <3 </b>
+</p>
 
 ___
 
