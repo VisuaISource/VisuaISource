@@ -6,7 +6,9 @@
 ___
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VisuaISource)
+
 <br><br>
+
 I'm a silly Bot/Game Developer who loves to bring ideas to life, I am extremely fascinated by the endless possibilities regarding designs and development.
 - CS&P @ PoD ⁎ Backend Developer
 - Game Testing Analyst
@@ -39,7 +41,7 @@ I'm a silly Bot/Game Developer who loves to bring ideas to life, I am extremely 
 <br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-<br> <b> Hope you have a great day! <3 </b>
+<br> (u) <b> Hope you have a great day! <3 </b> (/u)
 </p>
 
 ___
