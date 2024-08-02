@@ -1,5 +1,5 @@
 <p align="center">
-<br> <br> <br>  <img src="https://github.com/VisuaISource/VisuaISource/blob/main/blahajsping.gif"/>
+	<img src="https://github.com/VisuaISource/VisuaISource/blob/main/blahajbigspin.gif"/>
 <br>
 </p>
 
@@ -77,10 +77,10 @@ I crash my keyboard, and funny stuff are typed. :3
     <img src="https://streak-stats.demolab.com?user=VisuaISource&theme=shadow-purple&hide_border=true&excludeDaysLabel=EB5454" alt="GitHub Streak" width = 700px />
   </a>
   <br></br>
- <img src="https://github-readme-stats.vercel.app/api?username=VisuaISource&show_icons=true&count_private=true&bg_color=00000000&title_color=8A2BE2&text_color=cfcfcf&icon_color=8A2BE2&hide_border=true" alt="Visual's GitHub Stats" width = 700px />
+ <img src="https://github-readme-stats.vercel.app/api?username=VisuaISource&show_icons=true&count_private=true&bg_color=00000000&title_color=8DA3AD&text_color=cfcfcf&icon_color=8DA3AD&hide_border=true" alt="Visual's GitHub Stats" width = 700px />
 </td>
 <td align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VisuaISource&langs_count=7&bg_color=00000000&title_color=8A2BE2&text_color=cfcfcf&icon_color=8A2BE2&hide_border=true" alt="Visual's Cutest Languages" width = 500px />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VisuaISource&langs_count=7&bg_color=00000000&title_color=8DA3AD&text_color=cfcfcf&icon_color=8DA3AD&hide_border=true" alt="Visual's Cutest Languages" width = 500px />
   </td>
 </tr>
 </table>
