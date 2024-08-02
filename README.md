@@ -25,7 +25,7 @@ I crash my keyboard, and funny stuff are typed. :3
 - Documentation Enthusiast 
 - Synthwave Enthusiast :3
 
-<br><br>
+<br>
 
 ## <p align="center"> My Expertisesss >_< </p>
 
@@ -39,13 +39,10 @@ I crash my keyboard, and funny stuff are typed. :3
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-### <picture> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px>  </picture> • Frameworks & Library
+###  <p align="center"> <b>  Frameworks, Libraries, and Env's :3 <b> </p>
 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-### <p align="center"> <b> Silly tools & Env's :3 <b> </p>
-
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
