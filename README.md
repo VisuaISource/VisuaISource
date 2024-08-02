@@ -9,7 +9,6 @@
 
 <br>
 
-<img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="right"/>
 
 <br>
 I crash my keyboard, and funny words come out. :3 <br>
