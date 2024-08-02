@@ -1,5 +1,5 @@
 <p align="center">
-<br> <br> <br>  <img src="https://github.com/VisuaISource/VisuaISource/blob/main/blahaj.png"/>
+<br> <br> <br>  <img src="https://github.com/VisuaISource/VisuaISource/blob/main/blahajsping.gif"/>
 <br>
 </p>
 
@@ -15,8 +15,6 @@
   <a href="https://github.com/VisuaISource/ViewCounter">
     <img alt="views" title="GitHub profile views" src="https://darkseagreen-dotterel-356667.hostingersite.com/"/></a>
 </p>
-
-<img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="right"/>
 
 <br>
 
