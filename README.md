@@ -8,11 +8,11 @@
 **A silly goofball Develoepr**
 
 ## **About me :3**
-<a href="https://github.com/VisuaISource"><img align="left" width="100" src="./images/AstolfoBleh.png"></a>
+<a href="https://github.com/VisuaISource"><img align="left" width="100" src="./Images/AstolfoBleh.png"></a>
 I'm Visual, I enjoy playing games, listening to synthwave, and making my ideas come to life by smashing my head against my keyboard.
 
 ## **Experiences & Stacks**
-<a href="https://github.com/VisuaISource"><img align="left" width="100" src="./images/AstolfoStand.png"></a>
+<a href="https://github.com/VisuaISource"><img align="left" width="100" src="./Images/AstolfoStand.png"></a>
 I'm still a learner, I'd say I'm pretty intermediate at the moment, so it's nothing that special, but I hope that changes in the future.
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -40,7 +40,7 @@ I'm still a learner, I'd say I'm pretty intermediate at the moment, so it's noth
 	<img src="https://moe-counter.glitch.me/get/@VisuaISource?theme=moebooru-h"> <br/>
 </p> -->
 <a href="https://discord.com/users/1264589957222236226"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@VisuaISource?theme=rule34"></a>
-<a href="https://github.com/VisuaISource"><img align="left" width="100" src="./images/felixheart.png"></a>
+<a href="https://github.com/VisuaISource"><img align="left" width="100" src="./Images/felixheart.png"></a>
 
 ```yaml
 People who visit my profile :3.
