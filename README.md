@@ -4,10 +4,6 @@
 </p>
 
 ## <p align="center"> Hewoo, Meowlers! I'm Visual <3 </p>
-<h1 align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DEF7&width=435&lines=Hewo%2C+Meowlers!;I'm+Visual+%3C3"/>
-</h1>
-
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VisuaISource)
 
