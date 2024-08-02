@@ -6,7 +6,7 @@
 
 ### Hewo, Meowlers! I'm Visual <3
 **A silly goofball Develoepr**
-
+<br>
 ## **About me :3**
 <a href="https://github.com/VisuaISource"><img align="left" width="100" src="./Images/AstolfoBleh.png"></a>
 I'm Visual, I enjoy playing games, listening to synthwave, and making my ideas come to life by smashing my head against my keyboard.
@@ -43,9 +43,7 @@ I'm still a learner, I'd say I'm pretty intermediate at the moment, so it's noth
 
 ```yaml
 Thanks for checking out my profile! :3
-
 The council has deemed you a cutieeee<3
-
 
 ```
 
