@@ -42,9 +42,10 @@ I'm still a learner, I'd say I'm pretty intermediate at the moment, so it's noth
 <a href="https://github.com/VisuaISource"><img align="left" width="100" src="./Images/felixheart.png"></a>
 
 ```yaml
-People who visit my profile :3.
+Thanks for checking out my profile! :3
 
-Hehe~ another cutie has been caught.
+The council has deemed you a cutieeee<3
+.
 ```
 
 <!-- <br><br><br><br> -->
