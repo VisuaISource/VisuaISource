@@ -5,8 +5,8 @@
 <a href="https://discord.gg/github"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/1264589957222236226?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
 
 ### Hewo, Meowlers! I'm Visual <3
-**A silly goofball Develoepr**
-
+**A silly goofball Developer**
+**Software Testing Analyst**
 <br><br><br>
 
 ## **About me :3**
