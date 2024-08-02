@@ -4,10 +4,6 @@
 </p>
 
 ## <p align="center"> Hewoo, Meowlers! I'm Visual <3 </p>
-<h1 align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DEF7&width=435&lines=Hewo%2C+Meowlers!;I'm+Visual+%3C3"/>
-</h1>
-
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VisuaISource)
 
@@ -73,7 +69,6 @@ I crash my keyboard, and funny words come out. :3
   
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](discord.com/users/1264589957222236226)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/visualsource/)
-___
 
 <p align="center">
   <!--- stats (start) -->
