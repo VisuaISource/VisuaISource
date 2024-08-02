@@ -5,13 +5,13 @@
 
 ## <p align="center"> Hewoo, Meowlers! I'm Visual <3 </p>
 
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=VisuaISource)
 
 <br>
 
-
-<br>
-I crash my keyboard, and funny words come out. :3 <br>
+I crash my keyboard, and funny words come out. :3
 - CS&P @ PoD ⁎ Backend Developer
 - Game Testing Analyst
 - Cybersecurity & Intelligence Analyst
