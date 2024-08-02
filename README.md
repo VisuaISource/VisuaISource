@@ -33,7 +33,8 @@ I crash my keyboard, and funny words come out. :3
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Proton Mail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
 
-
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](discord.com/users/1264589957222236226)
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/visualsource/)
 
 <br><br><br><br><br><br>
 
@@ -66,10 +67,8 @@ I crash my keyboard, and funny words come out. :3
   </td>
   </tr>
   </table>
+
 <br><br><br>
-  
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](discord.com/users/1264589957222236226)
-[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/visualsource/)
 
 <p align="center">
   <!--- stats (start) -->
