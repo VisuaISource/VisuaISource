@@ -6,7 +6,9 @@
 
 ### Hewo, Meowlers! I'm Visual <3
 **A silly goofball Developer** <br>
-**Software Testing Analyst**
+**Software Testing Analyst** <br>
+**Documentation Specialist** <br>
+**Intel Analyst** <br>
 <br><br><br>
 
 ## **About me :3**
@@ -41,13 +43,13 @@ I'm still a learner, I'd say I'm pretty intermediate at the moment, so it's noth
 	<img src="https://moe-counter.glitch.me/get/@VisuaISource?theme=moebooru-h"> <br/>
 </p> -->
 <a href="https://discord.com/users/1264589957222236226"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@VisuaISource?theme=rule34"></a>
-<a href="https://github.com/VisuaISource"><img align="left" width="100" src="./Images/felixheart.png"></a>
+<a href="https://github.com/VisuaISource"><img align="left" width="100" src="./Images/AstolfoStand.png"></a>
 
 ```yaml
 Thanks for checking out my profile! :3
 The council has deemed you a cutieeee<3
 Hope you have a great day!
-Biyaaa <3
+
 
 ```
 
