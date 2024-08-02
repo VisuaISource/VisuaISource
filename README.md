@@ -4,7 +4,9 @@
 </p>
 
 ## <p align="center"> Hewoo, Meowlers! I'm Visual <3 </p>
-
+<h1 align="center">
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DEF7&width=435&lines=Hewo%2C+Meowlers!;I'm+Visual+%3C3"/>
+</h1>
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VisuaISource)
@@ -77,9 +79,19 @@ I crash my keyboard, and funny words come out. :3
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/visualsource/)
 ___
 
-<div class="badges-githubstats">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=VisuaISource&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="aaronedev's Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VisuaISource&theme=tokyonight&hide_border=true" alt="Visual's Streak" height="165">
-  </p>
-</div>
+<p align="center">
+  <!--- stats (start) -->
+<table align="center"">
+<tr border="none">
+<td align="center">
+   <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=VisuaISource&theme=shadow-purple&hide_border=true&excludeDaysLabel=EB5454" alt="GitHub Streak" width = 700px />
+  </a>
+  <br></br>
+ <img src="https://github-readme-stats.vercel.app/api?username=VisuaISource&show_icons=true&count_private=true&bg_color=00000000&title_color=8A2BE2&text_color=cfcfcf&icon_color=8A2BE2&hide_border=true" alt="Visual's GitHub Stats" width = 700px />
+</td>
+<td align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VisuaISource&langs_count=7&bg_color=00000000&title_color=8A2BE2&text_color=cfcfcf&icon_color=8A2BE2&hide_border=true" alt="Visual's Cutest Languages" width = 500px />
+  </td>
+</tr>
+</table>
