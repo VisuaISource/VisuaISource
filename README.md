@@ -7,7 +7,7 @@
 ### Hewo, Meowlers! I'm Visual <3
 **A silly goofball Develoepr**
 
-<br><br><br>
+<br><br>
 
 ## **About me :3**
 <a href="https://github.com/VisuaISource"><img align="left" width="100" src="./Images/AstolfoBleh.png"></a>
