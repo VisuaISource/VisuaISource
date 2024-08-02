@@ -34,7 +34,7 @@ I'm still a learner, I'd say I'm pretty intermediate at the moment, so it's noth
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 
-<br><br>
+<br>
 
 ## **Cutie Counter <3**
 <!-- <p align="center">
@@ -59,9 +59,9 @@ Biyaaa <3
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/visualsource/)
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:visuaIly@proton.me)
 
-<p align="center">
+
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-</p>
+
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="30px"> </picture> Yay, stats!!! :3
 
