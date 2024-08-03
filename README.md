@@ -62,9 +62,6 @@ Hope you have a great day!
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:visuaIly@proton.me)
 
 
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-
-
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="30px"> </picture> Yay, stats!!! :3
 
 <p align="center">
@@ -83,3 +80,7 @@ Hope you have a great day!
   </td>
 </tr>
 </table>
+
+  <p align="center">
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+  </p>
