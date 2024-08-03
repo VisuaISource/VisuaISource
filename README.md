@@ -4,7 +4,7 @@
 
 <a href="https://discord.gg/github"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/1264589957222236226?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E2F2&width=435&lines=Hewo+Meowlers!;I'm+Visual+%3C3" alt="Typing SVG" /></a><br>
+## **Hewo! I'm Visual <3**
 **A silly goofball Developer** <br>
 **Software Testing Analyst** <br>
 **Documentation Specialist** <br>
@@ -49,14 +49,13 @@ I'm still a learner, I'd say I'm pretty intermediate at the moment, so it's noth
 Thanks for checking out my profile! :3
 The council has deemed you a cutieeee<3
 Hope you have a great day!
-
-
 ```
 
 <!-- <br><br><br><br> -->
 <br><br>
 
 ## **Let's connect!! :3**
+Please direct message me on Discord for a faster reply >_<
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](discord.com/users/1264589957222236226)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/visualsource/)
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:visuaIly@proton.me)
