@@ -4,7 +4,7 @@
 
 <a href="https://discord.gg/github"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/1264589957222236226?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E2F2&width=435&lines=Hewo+Meowlers!;I'm+Visual+%3C3" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E2F2&width=435&lines=Hewo+Meowlers!;I'm+Visual+%3C3" alt="Typing SVG" /></a><br>
 **A silly goofball Developer** <br>
 **Software Testing Analyst** <br>
 **Documentation Specialist** <br>
