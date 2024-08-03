@@ -9,7 +9,7 @@
 **Software Testing Analyst** <br>
 **Documentation Specialist** <br>
 **Intel Analyst** <br>
-<br><br><br>
+<br><br>
 
 ## **About me :3**
 <a href="https://github.com/VisuaISource"><img align="left" width="100" src="./Images/AstolfoBleh.png"></a>
