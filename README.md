@@ -1,17 +1,21 @@
 <p align="center">
-<img src="https://github.com/VisuaISource/VisuaISource/blob/main/banner.jpeg"/>
+	<img src="https://github.com/VisuaISource/VisuaISource/blob/main/banner.jpeg"/>
 </p>
 
 <a href="https://discord.gg/github"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/1264589957222236226?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
 
 ### Hewo, Meowlers! I'm Visual <3
-**A silly goofball Develoepr**
+**A silly goofball Developer** <br>
+**Software Testing Analyst** <br>
+**Documentation Specialist** <br>
+**Intel Analyst** <br>
+<br><br><br>
 
 ## **About me :3**
 <a href="https://github.com/VisuaISource"><img align="left" width="100" src="./Images/AstolfoBleh.png"></a>
 I'm Visual, I enjoy playing games, listening to synthwave, and making my ideas come to life by smashing my head against my keyboard.
 
-<br><br>
+<br><br><br>
 
 ## **Experiences & Stacks**
 <a href="https://github.com/VisuaISource"><img align="left" width="100" src="./Images/AstolfoStand.png"></a>
@@ -36,15 +40,15 @@ I'm still a learner, I'd say I'm pretty intermediate at the moment, so it's noth
 
 ## **Cutie Counter <3**
 <!-- <p align="center">
-<img src="https://moe-counter.glitch.me/get/@VisuaISource?theme=moebooru-h"> <br/>
+	<img src="https://moe-counter.glitch.me/get/@VisuaISource?theme=moebooru-h"> <br/>
 </p> -->
 <a href="https://discord.com/users/1264589957222236226"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@VisuaISource?theme=rule34"></a>
-<a href="https://github.com/VisuaISource"><img align="left" width="100" src="./Images/felixheart.png"></a>
+<a href="https://github.com/VisuaISource"><img align="left" width="100" src="./Images/AstolfoStand.png"></a>
 
 ```yaml
 Thanks for checking out my profile! :3
-
 The council has deemed you a cutieeee<3
+Hope you have a great day!
 
 
 ```
@@ -57,9 +61,9 @@ The council has deemed you a cutieeee<3
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/visualsource/)
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:visuaIly@proton.me)
 
-<p align="center">
+
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-</p>
+
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="30px"> </picture> Yay, stats!!! :3
 
