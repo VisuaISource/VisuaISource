@@ -49,7 +49,7 @@ I'm still a learner, I'd say I'm pretty intermediate at the moment, so it's noth
 Thanks for checking out my profile! :3
 The council has deemed you a cutieeee<3
 Hope you have a great day!
-
+<3
 
 ```
 
