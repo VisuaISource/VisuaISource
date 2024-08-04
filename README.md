@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://github.com/VisuaISource/VisuaISource/blob/main/banner.jpeg"/>
+	<img src="https://github.com/VisuaISource/VisuaISource/blob/main/blahajbigspin.gif"/>
 </p>
 
 <a href="https://discord.gg/github"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/1264589957222236226?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
