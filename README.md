@@ -8,7 +8,8 @@
 **A silly goofball Developer** <br>
 **Software Testing Analyst** <br>
 **Documentation Specialist** <br>
-**Intel Analyst** <br>
+**Intelligence Analyst** <br>
+**Social & Public Relations Manager** <br>
 <br><br>
 
 ## **About me :3**
