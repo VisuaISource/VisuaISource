@@ -4,15 +4,18 @@
 
 <a href="https://discord.gg/github"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/1264589957222236226?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
 
-### Hewo, Meowlers! I'm Visual <3
-**A silly goofball Developer** <br>
+### Hewo, Meowlers! I'm Vi <3
+**The world's silliest Data Scientist** <br>
 **Software Testing Analyst** <br>
-**Documentation Specialist** <br>
-**Intelligence Analyst** <br>
+**Documentation Writer** <br>
+**OpenSource Intelligence Avid** <br>
 **Social & Public Relations Manager** <br>
-<br><br>
+<br>
 
-## **Cutie Counter <3**
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](discord.com/users/1264589957222236226)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:neko.gov@proton.me)
+
+## **Cutie Counter >w<**
 <!-- <p align="center">
 	<img src="https://moe-counter.glitch.me/get/@VisuaISource?theme=moebooru-h"> <br/>
 </p> -->
@@ -27,11 +30,7 @@
 <!-- <br><br><br><br> -->
 <br><br>
 
-## **Let's connect!! :3**
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](discord.com/users/1264589957222236226)
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:neko.gov@proton.me)
-
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="30px"> </picture> Yay, USELESS stats!!! :3
+## Yay, USELESS stats!!! :3
 
 <p align="center">
   <!--- stats (start) -->
