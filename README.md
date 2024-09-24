@@ -4,13 +4,13 @@
 
 <a href="https://discord.gg/github"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/1264589957222236226?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
 
-### Hewo, Meowlers! I'm Vi <3
+### Hewo, sillies! I'm Vi <3
 **The world's silliest Data Scientist** <br>
 **Software Testing Analyst** <br>
 **Documentation Writer** <br>
 **OpenSource Intelligence Avid** <br>
 **Social & Public Relations Manager** <br>
-<br>
+
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](discord.com/users/1264589957222236226)
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:neko.gov@proton.me)
@@ -20,11 +20,11 @@
 	<img src="https://moe-counter.glitch.me/get/@VisuaISource?theme=moebooru-h"> <br/>
 </p> -->
 <a href="https://discord.com/users/1264589957222236226"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@VisuaISource?theme=rule34"></a>
-<a href="https://github.com/VisuaISource"><img align="left" width="100" src="./Images/Fox2.png"></a>
+<a href="https://github.com/VisuaISource"><img align="left" width="100" src="1210922407473455254.png"></a>
 
 ```yaml
-:3
-
+https://en.pronouns.page/u/Neko.gov
+https://ammo.lol/neko
 ```
 
 <!-- <br><br><br><br> -->
